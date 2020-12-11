@@ -19,4 +19,7 @@ Robust IO tools for loading data from flat files (CSV and delimited), Excel file
 Time series-specific functionality: date range generation and frequency conversion, moving window statistics, moving window linear regressions, date shifting and lagging, etc.
 
 
+![Python_week4_fig3](https://user-images.githubusercontent.com/60155597/101864913-e91ffc80-3b42-11eb-92f7-27f6536a4da4.png)
+
+![Python_week4_fig2](https://user-images.githubusercontent.com/60155597/101864917-eb825680-3b42-11eb-8a30-dd0fcf7f589a.png)
 
