@@ -5,4 +5,5 @@ SciPy is a collection of mathematical algorithms and convenience functions built
 The additional benefit of basing SciPy on Python is that this also makes a powerful programming language available for use in developing sophisticated programs and specialized applications. Scientific applications using SciPy benefit from the development of additional modules in numerous niches of the software landscape by developers across the world. Everything from parallel programming to web and data-base subroutines and classes have been made available to the Python programmer. All of this power is available in addition to the mathematical libraries in SciPy.
 
 
+![Python_week7_fig1](https://user-images.githubusercontent.com/60155597/101863804-bcb7b080-3b41-11eb-8d35-310a2639bdbb.png)
 
