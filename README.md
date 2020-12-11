@@ -1,5 +1,5 @@
 # Python
-Spatial Computing with Python (GEOG673-051)
+Spatial Computing with Python 
 
 
 Preview 
